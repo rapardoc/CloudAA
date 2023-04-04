@@ -19,7 +19,7 @@
       <!-- health section start -->
       <div class="health_section layout_padding">
          <div class="container">
-            <h1 class="health_taital">Best Of Health care for you</h1>
+            <h1 class="health_taital">Lo mejor de la salur para ti RP</h1>
             <p class="health_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis</p>
             <div class="health_section layout_padding">
                <div class="row">
