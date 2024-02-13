@@ -17,7 +17,7 @@
          
       </div>   
       <!-- health section start -->
-      <div class="health_section layout_padding">
+  <!--<div class="health_section layout_padding">
          <div class="container">
             <h1 class="health_taital">Lo mejor de la salur para ti RP</h1>
             <p class="health_text">Prueba de cambio de texto en la pagina web desde VSC por medio de GITHUB para AZURE</p>
@@ -47,7 +47,7 @@
                <div class="getquote_bt_1"><a href="#">Read More <span><img src="images/right-arrow.png"></span></a></div>
             </div>
          </div>
-      </div>
+      </div> -->
       <!-- health section end -->
       <!-- knowledge section end -->
       <div class="knowledge_section layout_padding">
